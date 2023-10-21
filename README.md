@@ -49,5 +49,5 @@ The results are stored in a CSV file named `GA_report.csv`.
 
 ## Acknowledgment
 
-- Moro, Sérgio & Cortez, Paulo & Laureano, Raul. (2012). Enhancing Bank Direct Marketing through Data Mining. CAlg European Marketing Academy. Available at: https://repositorium.sdum.uminho.pt/handle/1822/21409 
-- Manuel Calzolari. (2021, April 3). manuel-calzolari/sklearn-genetic: sklearn-genetic 0.4.1 (Version 0.4.1). Zenodo. http://doi.org/10.5281/zenodo.4661248
+- Dataset: Moro, Sérgio & Cortez, Paulo & Laureano, Raul. (2012). Enhancing Bank Direct Marketing through Data Mining. CAlg European Marketing Academy. Available at: https://repositorium.sdum.uminho.pt/handle/1822/21409 
+- GA Package: Manuel Calzolari. (2021, April 3). manuel-calzolari/sklearn-genetic: sklearn-genetic 0.4.1 (Version 0.4.1). Zenodo. http://doi.org/10.5281/zenodo.4661248
