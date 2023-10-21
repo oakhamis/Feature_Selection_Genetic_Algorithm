@@ -1,8 +1,5 @@
-############################# Bank Feature Selection #########################
-
-
 """
-Libraries to be used for this problem
+Libraries to be used for this project
 """
 
 import pandas as pd 
